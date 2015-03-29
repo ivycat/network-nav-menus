@@ -1,0 +1,768 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"sliding-",
+				"sliding-panel-js"
+			],
+			[
+				"sliding",
+				"sliding-panel"
+			],
+			[
+				"wp_register_script",
+				"wp_register_script"
+			],
+			[
+				"slid",
+				"sliding-panel-js"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"line",
+				"line-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"set syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"set sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syn mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set syn",
+				"Set Syntax: YAML"
+			],
+			[
+				"set syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syn  ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pre",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"previe",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"synh",
+				"Set Syntax: HTML"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"openfi",
+				"Beanstalk: Open File"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"convert tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"search",
+				"WordPress Codex: Search Selection"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins pack ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/eric/Dropbox/dev/www/macbook-pro/wordpress-testbed/wp-content/plugins/network-wide-nav-menus"
+	],
+	"file_history":
+	[
+		"/Users/eric/Dropbox/work-in-progress/WordCamp_Seattle_Experienced_Edition_2014/eric_session_desc.html",
+		"/Users/eric/Downloads/mikes-theme/style.css",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/app.less",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/content-home.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/local-config.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/grunt.js",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/ivycat.css",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/content-author.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/author.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/author-header.php",
+		"/Users/eric/Downloads/gigharborweb/style.css",
+		"/Users/eric/Desktop/dedrick/weekly/mysql/dsprick_wp272.sql",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/content.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/content-archive.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/head.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/footer.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/bootstrap/type.less",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/content-design.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/content-hosting.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/plugins/ivycat-plugins/ivycat-plugins.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/plugins/ivycat-portfolio/ivycat-portfolio.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/content-single-portfolio.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/page-squeeze.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/base.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/content-portfolio_type.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/meta-portfolio.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/bootstrap/tables.less",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/bootstrap/mixins.less",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/bootstrap/variables.less",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/bootstrap/alerts.less",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/plugins/ivycat-portfolio/lib/portfolio-page-view.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/plugins/ivycat-portfolio/lib/ivycat-ajax.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/bootstrap/buttons.less",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/app-backup.less",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/content-single-wordpress-plugins.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/lib/sidebar.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/bootstrap/component-animations.less",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/meta-entry.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/bootstrap/wells.less",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/meta-plugin.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/templates/content-single.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-config.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/ivycat.sublime-project",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/wordpress-testbed/wp-content/plugins/ms-bing-translator-plugin/bing-translator.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/wordpress-testbed/wp-content/plugins/ms-bing-translator-plugin/readme.txt",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/wordpress-testbed/wp-content/plugins/ms-bing-translator-plugin/.gitignore",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/thepointintl-com/local-config.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/thepointintl-com/wp-config.php",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/bootstrap/glyphicons.less",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/page-wordpress.php",
+		"/Users/eric/Dropbox/dev/www/macbook-pro/dev-ivycat-com/wp-content/themes/ivycat/assets/css/main.css",
+		"/Users/eric/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/eric/www/dev-ivycat-com/wp-content/themes/ivycat/single.php",
+		"/Users/eric/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/eric/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/eric/www/dev-ivycat-com/wp-content/themes/ivycat/templates/header-top-navbar.php",
+		"/Users/eric/www/dev-ivycat-com/wp-content/themes/ivycat/templates/sidebar-about.php",
+		"/Users/eric/www/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/buttons.less",
+		"/Users/eric/www/dev-ivycat-com/wp-content/themes/ivycat/assets/css/less/app.less",
+		"/Users/eric/www/dev-ivycat-com/wp-content/themes/ivycat/templates/content-wordpress.php",
+		"/Users/eric/www/dev-ivycat-com/local-config.php",
+		"/Users/eric/www/dev-ivycat-com/wp-config.php",
+		"/Users/eric/www/dev-ivycat-com/wp-content/themes/ivycat/lib/utils.php",
+		"/Users/eric/www/dev-ivycat-com/wp-content/themes/ivycat/lib/scripts.php",
+		"/Users/eric/www/dev-ivycat-com/wp-content/themes/ivycat/lib/sidebar.php",
+		"/Users/eric/www/dev-ivycat-com/wp-content/themes/ivycat/lib/cleanup.php",
+		"/Users/eric/www/dev-ivycat-com/wp-content/plugins/ivycat-functionality/ivycat-plugin.php",
+		"/Users/eric/www/dev-ivycat-com/dev-ivycat-com.sublime-project",
+		"/Users/eric/www/dev-ivycat-com/wp-content/plugins/ivycat-functionality/readme.txt",
+		"/Users/eric/Downloads/accesslog-covingtoncellars.com-08-22-2013-02-05-25-0000",
+		"/Users/eric/Dropbox/dev/vhost/aquaspas-com/wp-content/themes/aquaspas/index.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/assets/less/bootstrap/utilities.less",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/assets/less/bootstrap/mixins.less",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/assets/less/bootstrap/type.less",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/lib/config.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/templates/header.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/functions.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/templates/footer.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/assets/less/app.less",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/assets/less/bootstrap/responsive-767px-max.less",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/assets/css/editor-style.css",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/assets/less/bootstrap/wells.less",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/base.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/assets/less/bootstrap/variables.less",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/plugins/sara-amundson/sara-amundson.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/plugins/sara-amundson/customer-plugin.php",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/westsoundworkforce.sublime-project",
+		"/Users/eric/Dropbox/dev/vhost/wordpress-plugin-template-customer/readme.txt",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/saraamundson.sublime-project",
+		"/Users/eric/Dropbox/dev/vhost/wordpress-plugin-template-customer/customer-plugin.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/templates/header-top-navbar.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/.editorconfig",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/assets/less/bootstrap/buttons.less",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/templates/head.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/templates/page-header.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/lib/cleanup.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/lib/init.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/lib/nav.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/lib/utils.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/lib/widgets.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/lib/activation.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/front-page.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/index.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/sara-amundson/style.css",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/roots-grunt/templates/head.php",
+		"/Users/eric/Dropbox/dev/vhost/saraamundson-com/wp-content/themes/roots-grunt/templates/header.php",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Users/eric/Dropbox/dev/vhost/aquaspas-com/wp-content/themes/aquaspas/assets/css/login.css",
+		"/Users/eric/Dropbox/dev/vhost/aquaspas-com/wp-content/themes/aquaspas/lib/config.php",
+		"/Users/eric/Dropbox/dev/vhost/aquaspas-com/wp-config.php",
+		"/Users/eric/Dropbox/dev/vhost/aquaspas-com/wp-content/plugins/aquaspas/aquaspas.php",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw/assets/css/editor-style.css",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw/style.css",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw/lib/config.php",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw/lib/init.php",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw/.editorconfig",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw/index.php",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw/package.json",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw/404.php",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw/base.php",
+		"/Users/eric/Library/Application Support/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw-responsive/assets/less/variables.less",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw-responsive/lib/scripts.php",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw-responsive/grunt.js",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw-responsive/node_modules/grunt/docs/task_init.md",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/themes/wsw-responsive/assets/css/login.css",
+		"/Users/eric/Dropbox/dev/vhost/westsoundworkforce-com/wp-content/plugins/westsoundworkforce/westsoundworkforce-plugin.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"<open files>",
+			"<project>",
+			"/Applications/MAMP/htdocs/nobhillnow/",
+			"/Applications/MAMP/htdocs/ivycat/wp-content/themes/ivycat/",
+			"/Applications/MAMP/htdocs/ivycat/wp-content/themes/ivycat/assets/css/",
+			"/Applications/MAMP/htdocs/ivycat/wp-content/themes/ivycat/assets/css/less",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"* ",
+			"h3>",
+			"</li>",
+			"</strong> - ",
+			"<li><strong>",
+			"</li>",
+			"</strong>",
+			"<li><strong>",
+			"service-hilite",
+			"wrong",
+			"Being",
+			"Being Right With Wrong",
+			"gottphoenix",
+			"quickhandle",
+			"feastfoodtours",
+			"annasbay.org",
+			"annasbay",
+			"    ",
+			"single",
+			"wordpress-logo800-e1392414337842-150x146.jpg",
+			"blockquote",
+			"portfolio-li",
+			"#featured-posts ",
+			".single-word",
+			".post",
+			"960",
+			"searchform",
+			"btnSuccessBackground",
+			".btn-success",
+			"article-meta",
+			"thead",
+			".highlight",
+			"blockquote",
+			"bloc",
+			"@yellow",
+			"FCFB50",
+			"blockquote",
+			".alert",
+			"250px",
+			"960px",
+			"980px",
+			"</li>",
+			"	Yes	Yes	Yes",
+			"&",
+			"\n</li>",
+			"\n",
+			"Mailing",
+			"){",
+			"warning",
+			"#000",
+			"e:2",
+			"y:b",
+			"ivyblueMed",
+			"@blueDarker",
+			"d5e7ef",
+			"block",
+			"#42652A",
+			".footer-highlight",
+			"#84C353",
+			"#eeeeee;",
+			"#eee;",
+			"#CCC;",
+			"#CCCCCC;",
+			"graylight",
+			"6D7685",
+			"#42652a",
+			"  ",
+			"widg",
+			"                   ",
+			"                  ",
+			"                 ",
+			"                ",
+			"               ",
+			"              ",
+			"             ",
+			"            ",
+			"hilite",
+			"blockquote",
+			"blockq",
+			"block",
+			".well",
+			"well",
+			"we",
+			"blockquote",
+			"#FFF",
+			".gform_footer",
+			"connect",
+			"section",
+			"aside",
+			".meta-avatar",
+			"	.article-wrap{\n		// margin-left: 3%;\n		// width: 74%;\n		// .article-meta{\n		// 	li{\n		// 		&.meta-avatar{\n		// 			margin-top: 0;\n		// 			margin-right: .7em;\n		// 		}\n		// 	}\n		// }\n	}",
+			".meta-avatar",
+			"		// .meta-avatar {\n		// 	margin-right: 6px;\n		// }",
+			".meta-avatar",
+			"avatar",
+			".article-meta",
+			".hentr",
+			".article-meta ",
+			".hentry",
+			"WPSEO_Show_Address",
+			".WPSEO_Show_Address ",
+			"@media  (",
+			".meta-plugin ",
+			".plugin-info ",
+			"wrap",
+			".meta-plugin",
+			".testify ",
+			".wordpress-plugins",
+			".WPSEO_Show_Address ",
+			"980px",
+			"959px",
+			"960",
+			"hentry",
+			"div",
+			".highlight ",
+			"highlight",
+			".highlight",
+			".highlight ",
+			"aside ",
+			".widget_recent_entries ",
+			"page-header",
+			"#nav-util ",
+			"#f0f8ea",
+			"#ffffff",
+			"#d5ebc4",
+			"gform_wid",
+			".meta-avatar",
+			".article-meta"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@ivyblueDarker",
+			"@ivygreenDark",
+			"@ivygreenMed",
+			"@grayLighter;",
+			"@grayLight;",
+			"@ivygreenDark",
+			"@white",
+			"@ivygreenLighter",
+			"@white",
+			"@ivygreenLight",
+			"www",
+			"@sa-purpleDark",
+			"@sa-blueLight",
+			"<li>",
+			"testimonials-loop-template"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "network-wide-nav-menus.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ty",
+				"ivycat/assets/css/less/bootstrap/type.less"
+			],
+			[
+				"aler",
+				"ivycat/assets/css/less/bootstrap/alerts.less"
+			],
+			[
+				"mixin",
+				"ivycat/assets/css/less/bootstrap/mixins.less"
+			],
+			[
+				"var",
+				"ivycat/assets/css/less/bootstrap/variables.less"
+			],
+			[
+				"typ",
+				"ivycat/assets/css/less/bootstrap/type.less"
+			],
+			[
+				"sid",
+				"ivycat/lib/sidebar.php"
+			],
+			[
+				"type",
+				"ivycat/assets/css/less/bootstrap/type.less"
+			],
+			[
+				"vari",
+				"ivycat/assets/css/less/bootstrap/variables.less"
+			],
+			[
+				"app",
+				"wp-content/themes/nobhillnow/assets/css/app.css"
+			],
+			[
+				"word",
+				"wp-content/themes/ivycat/page-wordpress.php"
+			],
+			[
+				"wordp",
+				"wp-content/themes/ivycat/templates/content-wordpress.php"
+			],
+			[
+				"foot",
+				"wp-content/themes/ivycat/templates/footer.php"
+			],
+			[
+				"home",
+				"wp-content/themes/ivycat/templates/content-home.php"
+			],
+			[
+				"conw",
+				"wp-content/themes/ivycat/templates/content-wordpress.php"
+			],
+			[
+				"contenwor",
+				"wp-content/themes/ivycat/templates/content-wordpress.php"
+			],
+			[
+				"hostin",
+				"wp-content/themes/ivycat/templates/content-hosting.php"
+			],
+			[
+				"base",
+				"wp-content/themes/ivycat/base.php"
+			],
+			[
+				"nav",
+				"wp-content/themes/ivycat/lib/nav.php"
+			],
+			[
+				"function",
+				"wp-content/themes/ivycat/functions.php"
+			],
+			[
+				"temp/wordpress",
+				"wp-content/themes/ivycat/templates/content-wordpress.php"
+			],
+			[
+				"app.le",
+				"wp-content/themes/ivycat/assets/css/less/app.less"
+			],
+			[
+				"/temphead",
+				"wp-content/themes/ivycat/templates/head.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
