@@ -15,5 +15,6 @@
  */
 function nnm_get_network_nav_menu_locations() {
 	$menu_locations = (array) get_option( 'nmm_nav_menu_locations' );
+
 	return array_filter( $menu_locations );
 }

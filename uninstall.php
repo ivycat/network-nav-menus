@@ -13,7 +13,7 @@ if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 global $wpdb;
 
 // @todo Loop through sites to delete.
-#delete_option( 'nmm_nav_menu_locations' );
+#delete_option( 'nnm_nav_menu_locations' );
 
 // Delete site options.
 $options = $wpdb->get_col( "SELECT meta_key FROM $wpdb->sitemeta WHERE meta_key LIKE 'nnm_%'" );

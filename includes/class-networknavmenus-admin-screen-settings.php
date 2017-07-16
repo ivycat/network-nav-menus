@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Settings screen class.
  *
@@ -86,7 +87,7 @@ class NetworkNavMenus_Admin_Screen_Settings {
 	public function render_screen() {
 		$locations = get_registered_nav_menus();
 
-		$menu_locations = get_nav_menu_locations();
+		$menu_locations         = get_nav_menu_locations();
 		$network_menu_locations = nnm_get_network_nav_menu_locations();
 
 		$nav_menus = wp_get_nav_menus();

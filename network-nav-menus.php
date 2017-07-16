@@ -8,9 +8,9 @@
  * @wordpress-plugin
  * Plugin Name: Network Nav Menus
  * Description: Assign nav menus from the main site in a network to theme locations in sub-sites.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: IvyCat, Inc.
- * Author URI: http://www.ivycat.com/
+ * Author URI: https://ivycat.com/
  */
 
 if ( ! defined( 'NNM_DIR' ) ) {
@@ -60,6 +60,7 @@ function nnm_autoloader( $class ) {
 		require_once( $file );
 	}
 }
+
 spl_autoload_register( 'nnm_autoloader' );
 
 $network_nav_menus = new NetworkNavMenus();

@@ -3,7 +3,7 @@ Contributors: ivycat, sewmyheadon, bradyvercher, rdall
 Tags: multisite, nav menus, navigation, network
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 4.3
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,7 +43,6 @@ Once set up the menu you want to use for your network wide menu in the initial  
 *Q* Is there a site that is currently using this plugin?
 
 *A* Yes this plugin was initially built for [Art Wolfe](http://artwolfe.com/ "Website of Art Wolfe") and as of April / 2015 the only site where you can see it implemented.
-
 
 An answer to that question.
 

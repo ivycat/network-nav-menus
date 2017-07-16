@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Main plugin class.
  *
@@ -41,6 +42,7 @@ class NetworkNavMenus {
 	 * @since 1.0.0
 	 *
 	 * @param array $locations Nav menu locations.
+	 *
 	 * @return array
 	 */
 	public function nav_menu_locations( $locations ) {
@@ -60,10 +62,11 @@ class NetworkNavMenus {
 	 *
 	 * @param string $output Nav menu output. Defaults to null.
 	 * @param array $args Arguments for rendering the nav menu.
+	 *
 	 * @return string
 	 */
 	public function render_network_nav_menu( $output, $args ) {
-		$args = (array) $args;
+		$args           = (array) $args;
 		$theme_location = $args['theme_location'];
 
 		if ( is_main_site() || empty( $theme_location ) ) {
@@ -71,12 +74,12 @@ class NetworkNavMenus {
 		}
 
 		$locations = nnm_get_network_nav_menu_locations();
-		if ( empty( $locations[ $theme_location] ) ) {
+		if ( empty( $locations[ $theme_location ] ) ) {
 			return $output;
 		}
 
 		$nav_menu_id = $locations[ $theme_location ];
-		$output = $this->get_network_nav_menu_output( $nav_menu_id, $args );
+		$output      = $this->get_network_nav_menu_output( $nav_menu_id, $args );
 
 		return $output;
 	}
@@ -93,12 +96,13 @@ class NetworkNavMenus {
 	 *
 	 * @param int $nav_menu_id Nav menu term id.
 	 * @param array $args Arguments for rendering the nav menu.
+	 *
 	 * @return string
 	 */
 	public function get_network_nav_menu_output( $nav_menu_id, $args = array() ) {
 		// @todo This should probably use $args, too.
 		$cache_key = 'nnm_' . get_stylesheet() . '_' . $nav_menu_id;
-		$cache = get_site_option( $cache_key );
+		$cache     = get_site_option( $cache_key );
 
 		if ( false === $cache ) {
 			switch_to_blog( 1 );
@@ -133,6 +137,7 @@ class NetworkNavMenus {
 	 * @since 1.0.0
 	 *
 	 * @param string $nav_menu Nav menu HTML output.
+	 *
 	 * @return string
 	 */
 	public function update_nav_menu_classes( $nav_menu ) {
