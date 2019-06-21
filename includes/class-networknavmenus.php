@@ -105,7 +105,7 @@ class NetworkNavMenus {
 		$cache     = get_site_option( $cache_key );
 
 		if ( false === $cache ) {
-			switch_to_blog( 1 );
+			switch_to_blog( apply_filters( 'nnm_main_site_id', 1 ) );
 			if ( wp_get_nav_menu_object( $nav_menu_id ) ) {
 				$args['echo']           = false;
 				$args['menu']           = $nav_menu_id;
