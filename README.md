@@ -44,7 +44,9 @@ You can then go to any sub-site under **Appearance > Menus** and there will be a
 
 ### *Q:* Can I choose which site my Network Nav Menu comes from? 
 
-*A:* No, the Network Nav Menu can only be set in the primary site.
+*A:* Yes, use the `nnm_main_site_id` filter:
+
+ `add_filter( 'nnm_main_site_id', function () { return 2; } );`
 
 
 ### *Q:* Is there a site that is currently using this plugin? 
