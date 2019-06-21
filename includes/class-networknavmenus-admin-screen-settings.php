@@ -22,7 +22,7 @@ class NetworkNavMenus_Admin_Screen_Settings {
 	 * @since 1.0.0
 	 */
 	public function add_menu_item() {
-		if ( is_main_site() ) {
+		if ( apply_filters( 'nnm_main_site_id', 1 ) == get_current_blog_id() ) {
 			return;
 		}
 
@@ -91,7 +91,7 @@ class NetworkNavMenus_Admin_Screen_Settings {
 		$network_menu_locations = nnm_get_network_nav_menu_locations();
 
 		$nav_menus = wp_get_nav_menus();
-		switch_to_blog( 1 );
+		switch_to_blog( apply_filters( 'nnm_main_site_id', 1 ) );
 		$network_nav_menus = wp_get_nav_menus();
 		restore_current_blog();
 
